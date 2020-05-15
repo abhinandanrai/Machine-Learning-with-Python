@@ -1,25 +1,6 @@
 # Machine-Learning-with-Python
 
-### Libraries 
-Required libraries to run all Jupyter Notebooks are as follows:
-
-* NumPy
-* Pandas 
-* Matplotlib
-* Seaborn
-* Scikit-learn
-
-# Project 1. Titanic Survival Prediction
-
-### Motivation
-The goal of this project is to predict survival on the Titanic and get familiar with ML basics.
-
-### File Description
-Download the files from this repo which is available in the Datasets folder in .csv format or [directly from Kaggle](https://www.kaggle.com/c/titanic).
-
-There is also a Jupyter notebook which includes exploratory data analysis (EDA) with Python and survival prediction using LogisticRegression, and RandomForestClassifier on Kaggle Titanic dataset.
-
-# Project 2. HR Analytics Using IBM HR Dataset
+# Project 1. HR Analytics Using IBM HR Dataset
 
 ### Motivation
 The goal of this project is to uncover the factors that lead to employee attrition.
@@ -28,3 +9,12 @@ The goal of this project is to uncover the factors that lead to employee attriti
 Download the file from this repo which is available in the Datasets folder in .csv format or [directly from Kaggle](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset).
 
 There is also a Jupyter notebook which goes through the Kaggle IBM HR Dataset via Exploratory Data Analysis(EDA) with Python and finishes with building machine learning model using Random Forest Classifier.
+
+### Libraries 
+Required libraries to run all cells in the Jupyter Notebook are as follows:
+
+* NumPy
+* Pandas 
+* Matplotlib
+* Seaborn
+* Scikit-learn

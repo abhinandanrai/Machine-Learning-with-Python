@@ -1,6 +1,6 @@
 # Machine-Learning-with-Python
 
-# Project 1. HR Analytics Using IBM HR Dataset
+## Project 1. HR Analytics Using IBM HR Dataset
 
 ### Motivation
 The goal of this project is to uncover the factors that lead to employee attrition.

@@ -1,6 +1,6 @@
 # Machine-Learning-with-Python
 
-### Project 1. HR Analytics Using IBM HR Dataset Available on Kaggle
+### Project 1. HR Analytics Using IBM HR Dataset
 
 The Jupyter Notebook goes through the Kaggle IBM HR Dataset via Exploratory Data Analysis(EDA) with Python and finishes with building machine learning model using Random Forest Classifier.
 
